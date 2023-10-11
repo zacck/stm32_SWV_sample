@@ -22,8 +22,8 @@
 
 int main(void)
 {
-	printf("Working hello world");
-	printf("Wow did we fix it?");
+	printf("Working hello world \n");
+	printf("Wow did we fix it? \n");
     /* Loop forever */
 	for(;;);
 }
